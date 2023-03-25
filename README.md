@@ -1,10 +1,11 @@
+* [Skills](#skills)
+* [Work Experience](#work-experience)
+* [Eduation](#eduation)
 
 
 ## Skills
-#### Computer Lanuages
->C, Java, Kotlin, JavaScript
-#### Database
->SQLite, MongoDB
+>C, Java, Kotlin, JavaScript, Android App, Android BSP, Android RIL, SQLite, MongoDB, HTML5, CSS, Angular, NodeJS, Embedded System, Firmware, 3GPP, SUPL
+
 #### Algorithm
 >[LeetCode](https://leetcode.com/kevinchung0921/)
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/b35cc92a912cecd41cee3e8295ee38689b1b7405/images/leetcode_2023_03.png' />
@@ -37,7 +38,9 @@
 
 ---
 
-
+## Language
+* Chineses: Native Speaker
+* English: Fluent 
 ## Eduation
 * Master, Electric Engineering
     * National Taiwan Ocean University, *09/1997~06/2000*
