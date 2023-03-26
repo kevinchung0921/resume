@@ -1,6 +1,7 @@
 * [Skills](#skills)
 * [Work Experience](#work-experience)
 * [Eduation](#eduation)
+* [Side Projects](#side-projects)
 
 
 ## Skills
@@ -35,6 +36,23 @@
 ---
 #### Technical Associate Manager at [BenQ](https://www.benq.com)
 *10/1999 - 10/2004*
+
+---
+## Side projects
+#### AT2
+
+#### PCTM
+
+#### COFFEE
+
+#### RIL MSC
+
+#### SUPL test
+
+#### MDIDrawable
+
+#### Product classifier 
+
 
 ---
 
