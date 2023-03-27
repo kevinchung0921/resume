@@ -2,6 +2,7 @@
 * [Work Experience](#work-experience)
 * [Eduation](#eduation)
 * [Side Projects](#side-projects)
+* [Language](#language)
 
 
 ## Skills
@@ -41,13 +42,26 @@
 ## Side projects
 #### AT2
 
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/AT2.png' />
+
+#### RD Driver analyzer
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/RF_driver_analyzer.png' />
+
 #### PCTM
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/pctm.png' />
 
 #### COFFEE
 
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/coffee.png' />
+
 #### RIL MSC
 
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/ril_log_msc.png' />
+
 #### SUPL test
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
 
 #### MDIDrawable
 
@@ -59,6 +73,7 @@
 ## Language
 * Chineses: Native Speaker
 * English: Fluent 
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/toeic_.png' />
 ## Eduation
 * Master, Electric Engineering
     * National Taiwan Ocean University, *09/1997~06/2000*
