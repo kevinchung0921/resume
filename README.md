@@ -88,31 +88,58 @@
 ---
 ## Side projects
 #### AT2
+###### Language: BCB
+###### Purpose: Auto test for GSM modem functions
+###### Features: COM port read/write, string matching, flow control, Equipments control via GPIB, script save/load
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/AT2.png' />
 
 #### RD Driver analyzer
+###### Language: BCB
+###### Purpose: Transfer RF driver C source code to GPIO timing chart for analsyis and tuning
+###### Features: Parsing C source via Preprocessor and draw as timing chart, support measurment between signals
+
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/RF_driver_analyzer.png' />
 
 #### PCTM
+###### Language: BCB
+###### Purpose: GUI for RF/BB test commands on TI modem platform
+###### Features: Send various test command on the fly
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/pctm.png' />
 
 #### COFFEE
+###### Language: BCB
+###### Purpose: Extract COFF(common object file format) debug symbols to translate address to source file name and line number
+###### Features: COFF parser, crash log analysis, symbol search, disassembly on ARM/Thumb mode
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/coffee.png' />
 
 #### RIL MSC
+###### Language: Python
+###### Purpose: Convert Android logcat messages into RIL message sequence chart
+###### Features: Collect log from couples of RIL releavant thread and create mscgen script for generate chart
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/ril_log_msc.png' />
 
-#### SUPL test
+#### SUPL test tool
+###### Language: BCB
+###### Purpose: Perform SUPL flow for function verification
+###### Features: Initial SUPL protocol to specified server, dump PDU, write aiding data into in house GPS solution
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
 
 #### MDIDrawable
+###### Language: Java
+###### Purpose: Convert Android logcat messages into RIL message sequence chart
+###### Features: Collect log from couples of RIL releavant thread and create mscgen script for generate chart
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
 
 #### Product classifier 
+###### Language: Python, pyTorch
+###### Purpose: Machine Learning model for classify merchandism 
+###### Features: 
 
 
 ---
