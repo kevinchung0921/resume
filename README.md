@@ -7,7 +7,8 @@
 	* [MStar Semiconductor](#mstar-semiconductor)
 	* [LiteOn](#liteon)
 	* [BenQ](#benq)
-* [Eduation](#eduation)
+* [Awards](#awards)
+* [Education](#education)
 * [Side Projects](#side-projects)
 * [Language](#language)
 
@@ -34,27 +35,28 @@
 #### Intel
 ###### Software Engineer, *09 / 2013 - 05 / 2015*
 >* Android RIL support for customer integration
+>* 
 
 ---
 #### Renasas Mobile
 ###### Technical Manager, *02 / 2012 - 07 / 2013*
 
->* Renesas Mobile LTE modem + TI OMAP blaze for Quanta (USB interface)	
->* Renesas Mobile LTE modem + nVidia Tegra3 for Compal communication (HSI interface)	
+>* Support Renesas Mobile LTE modem + TI OMAP blaze for Quanta (USB interface)	
+>* Spport Renesas Mobile LTE modem + nVidia Tegra3 for Compal communication (HSI interface)	
 >* Support Renesas Mobile Single Chip for HTC evaluation 
 
 ---
 #### MStar Semiconductor
 ###### Technical Deputy Manager, *05 / 2007 - 01 / 2012*
 
->* Implment WiFi platform automatic PC test tool and test cases: I wrote a PC tool with GUI(BCB) for automatically regression test and some of the test case.	
->* SUPL protocol: to develop the SUPL protocol to enable AGPS function of MStar GPS chip. I made this from scratch include specification study, ASN.1 compiler survey, software architecture and the implementation. Finally it was adopted by the customer including the IOT with the operator.	
->* GPS logger application: The features of this tool require reading position information from MStar GPS chip and using Google Map to show it. 	
->* Linux BSP for PND device: I was the software leader for a new PND chip bring up and Linux BSP implement. This role required not only coordinate with IC designer, hardware and application engineer but also have to implement the device driver. So I ported the NAND, Touch screen, Backlight and keyboard driver in this project and have good knowledge on Linux kernel driver. And I also successfully ported the Android onto this platform with limited function in just 2 weeks after the first release of Android source code.
->* Connected PND chip (GPRS/GPS integration): We integrate GPS and GPRS chip in the same die in this project. I was in charge the GPRS part function. With very limited human resources, we break the company’s record to get GCF certification in one month. 	
->* TDD/GSM Dual mode: manager decided to send two best layer1 engineers of company to UK branch for transfer TDS-CDMA/GSM dual mode technology. I was recommended to be one. After few weeks training and co-worked with UK and Shanghai team, we finally delivered this feature.
->* 3.5G Android platform: I was assigned to porting in house RIL with multiplexer function, I successfully porting the in house proprietary RIL on Android with very limited modifications on interface. 	
->* FM radio user space driver via UIO class driver; define new Hardware Abstraction Layer, JNI and associated Java application. 
+>* **WiFi test tool and test cases**: I wrote a PC tool with GUI(BCB) for automatically regression test and some of the test case.	
+>* **SUPL protocol**: to develop the SUPL protocol to enable AGPS function of MStar GPS chip. I made this from scratch include specification study, ASN.1 compiler survey, software architecture and the implementation. Finally it was adopted by the customer including the IOT with the operator.	
+>* **GPS logger application**: The features of this tool require reading position information from MStar GPS chip and using Google Map to show it. 	
+>* **Linux BSP for PND device**: I was the software leader for a new PND chip bring up and Linux BSP implement. This role required not only coordinate with IC designer, hardware and application engineer but also have to implement the device driver. So I ported the NAND, Touch screen, Backlight and keyboard driver in this project and have good knowledge on Linux kernel driver. And I also successfully ported the Android onto this platform with limited function in just 2 weeks after the first release of Android source code.
+>* **Connected PND chip (GPRS/GPS integration)**: We integrate GPS and GPRS chip in the same die in this project. I was in charge the GPRS part function. With very limited human resources, we break the company’s record to get GCF certification in one month. 	
+>* **TDD/GSM Dual mode**: manager decided to send two best layer1 engineers of company to UK branch for transfer TDS-CDMA/GSM dual mode technology. I was recommended to be one. After few weeks training and co-worked with UK and Shanghai team, we finally delivered this feature.
+>* **3.5G Android platform**: I was assigned to porting in house RIL with multiplexer function, I successfully porting the in house proprietary RIL on Android with very limited modifications on interface. 	
+>* **Linux FM radio** via UIO; define new Hardware Abstraction Layer, JNI and associated Java application. 
 
 ---
 #### LiteOn
@@ -68,14 +70,13 @@
 #### BenQ
 ###### Technical Associate Manager, *10 / 1999 - 10 / 2004*
 
->* Smart battery driver by 1-wire protocol: This protocol use a single GPIO as input and output which requires accurate timing control. Because of not allow to mask interupts during access, error detect and handle was also implemented.
->* Maintaining AT command for communicate between application processor and modem.  
->* Developing various GSM/GPRS RF drivers (Infineon, SiLab, Conexant): I wrote the very first GPRS driver in the company, in spite of lacking of RF background knowledge and experiences at that time, I still manage to make first phone call just one week later after the handset pilot-run. 
->* Current consumption reduction project: we successfully reduce the 20% current consumption by fine tune RF driver, optimize system behavior and find out circuit leakage.
->* Mobile phone certification(GCF) support at 7 Layer(Cambridge, UK), ADR lab(Flensburg, Germany).
->* Camera driver implementation on feature phone via SPI interface. 
->* Critical field trial issue resolving: This the toughest part before phone going mass-production due to the complex network environment and various user behaviors. It requires the capability to analyze log very carefully.
->* Developing various PC tools including RF test mode tool, Log analyzer, and automatic RF test with instrument control by GPIB.
+>* **Smart battery driver** (**1-wire protocol**): This protocol use a single GPIO as input and output which requires accurate timing control. Because of not allow to mask interupts during access, error detect and handle was also implemented.
+>* Design and maintain **AT command** via **UART** for communicate between application processor and modem.  
+>* Developing various **GSM/GPRS RF drivers** (Infineon, SiLab, Conexant): I wrote the very first GPRS driver in the company, in spite of lacking of RF background knowledge and experiences at that time, I still manage to make first phone call just one week later after the handset pilot-run. 
+>* **Current consumption reduction**: we successfully reduce the 20% current consumption by fine tune RF driver, optimize system behavior and find out circuit leakage.
+>* **Mobile phone certification**(GCF) support at 7 Layer(Cambridge, UK), ADR lab(Flensburg, Germany).
+>* **Camera driver** development on feature phone(**SPI interface**). 
+>* Resolve field trial issues: This the toughest part before phone going mass-production due to the complex network environment and various user behaviors. It requires the capability to analyze huge logs very carefully.
 
 ---
 ## Side projects
@@ -88,8 +89,8 @@
 
 #### RD Driver analyzer
 ###### Language: BCB
-###### Purpose: Transfer RF driver C source code to GPIO timing chart for analsyis and tuning
-###### Features: Parsing C source via Preprocessor and draw as timing chart, support measurment between signals
+###### Purpose: Transfer RF driver C source code to GPIO timing chart for analysis and tuning
+###### Features: Parsing C source via Preprocessor and draw as timing chart, support measurement between signals
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/RF_driver_analyzer.png' />
 
@@ -110,7 +111,7 @@
 #### RIL MSC
 ###### Language: Python
 ###### Purpose: Convert Android logcat messages into RIL message sequence chart
-###### Features: Collect log from couples of RIL releavant thread and create mscgen script for generate chart
+###### Features: Collect log from couples of RIL relevant thread and create mscgen script for generate chart
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/ril_log_msc.png' />
 
@@ -124,24 +125,31 @@
 #### MDIDrawable
 ###### Language: Kotlin/Python
 ###### Purpose: Runtime generate icon from MDI font
-###### Features: auto download mdi font and generate Android string resource xml file, many controlable effects including color, shadow,..
+###### Features: auto download mdi font and generate Android string resource xml file, many controllable effects including color, shadow,..
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' />
 #### Product classifier 
 ###### Language: Python, pyTorch
-###### Purpose: Machine Learning model for classify merchandism 
+###### Purpose: Machine Learning model for classify merchandise 
 ###### Features: 
 
 
 ---
+## Awards
+* Several peer Recognitions at Intel
+* Short term award at MStar
+* President award at MStar 
+* Special bonus 
 
+
+## Education
+* **Master**, Electric Engineering
+    * National Taiwan Ocean University, *09/1997~06/2000*
+* **Bachelor**, Electric Engineering
+    * National Taiwan Ocean University, *09/1993~06/1997*
+---
 ## Language
-* Chineses: Native Speaker
+* Chinese: Native Speaker
 * English: Fluent 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/toeic_.png' />
 
-## Eduation
-* Master, Electric Engineering
-    * National Taiwan Ocean University, *09/1997~06/2000*
-* Bachelor, Electric Engineering
-    * National Taiwan Ocean University, *09/1993~06/1997*
