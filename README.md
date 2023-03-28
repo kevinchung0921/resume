@@ -24,9 +24,10 @@
 #### Freelancer 
 ###### Software Engineer, *05 / 2015 ~ now*
 	
->* [KA Finance](https://finance.ka-soft.com/)
->* KA Finance web frontend/backend
+>* [KA Finance App](https://play.google.com/store/apps/details?id=com.kevin.finance_v2)
+>* [KA Finance website](https://finance.ka-soft.com/)
 >* [Idar](https://finance.ka-soft.com/idar)
+>* [IAB OM sdk certification](https://finance.ka-soft.com/idar)
 
 ---
 
@@ -121,12 +122,11 @@
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
 
 #### MDIDrawable
-###### Language: Java
-###### Purpose: Convert Android logcat messages into RIL message sequence chart
-###### Features: Collect log from couples of RIL releavant thread and create mscgen script for generate chart
+###### Language: Kotlin/Python
+###### Purpose: Runtime generate icon from MDI font
+###### Features: auto download mdi font and generate Android string resource xml file, many controlable effects including color, shadow,..
 
-<img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
-
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' />
 #### Product classifier 
 ###### Language: Python, pyTorch
 ###### Purpose: Machine Learning model for classify merchandism 
