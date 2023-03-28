@@ -128,6 +128,15 @@
 ###### Features: auto download mdi font and generate Android string resource xml file, many controllable effects including color, shadow,..
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' />
+
+#### EInvoice SDK
+###### Language: Kotlin
+###### Purpose: Taiwan EInvoice API SDK
+###### Features: Query einvoice header and details
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' />
+
+
 #### Product classifier 
 ###### Language: Python, pyTorch
 ###### Purpose: Machine Learning model for classify merchandise 
@@ -136,10 +145,10 @@
 
 ---
 ## Awards
-* Several peer Recognitions at Intel
-* Short term award at MStar
-* President award at MStar 
-* Special bonus 
+* Several peer Recognitions at **Intel**
+* Short term award at **MStar**
+* President award at **MStar** 
+* Special bonus at **BenQ**
 
 
 ## Education
