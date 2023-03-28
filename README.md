@@ -1,4 +1,5 @@
 ## Category
+* [About me](#about-me)
 * [Skills](#skills)
 * [Work Experience](#work-experience)
 	* [Freelancer](#freelancer)
@@ -13,13 +14,23 @@
 * [Language](#language)
 
 ---
+## About me
+>* 3 years experiences on back-end/front-end server implementation.
+>* 8 years experiences on implement Android App.
+>* 5 years experiences on Linux/Android system bring up and BSP.
+>* 3 years experiences on chip verification and device driver implementation.
+>* 7 years experiences on mobile phone developments, including BB/RF driver, Layer1 Protocol, GCF certification.
+
+**Full of curiosity**, **love coding**, **enjoy of chalenges**, **self discipline**
+---
+
 ## Skills
 >C, Java, Kotlin, JavaScript, Android App, Android BSP, Android RIL, SQLite, MongoDB, HTML5, CSS, Angular, NodeJS, Embedded System, Firmware, 3GPP, SUPL
 
 #### Algorithm
->[LeetCode](https://leetcode.com/kevinchung0921/)
-<img width='400' src='https://github.com/kevinchung0921/resume/blob/b35cc92a912cecd41cee3e8295ee38689b1b7405/images/leetcode_2023_03.png' />
-
+> 1000+ problems solved on [LeetCode](https://leetcode.com/kevinchung0921/)
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/b35cc92a912cecd41cee3e8295ee38689b1b7405/images/leetcode_2023_03.png' href='https://leetcode.com/kevinchung0921/'/>
+---
 ## Work experience
 
 #### Freelancer 
@@ -28,14 +39,13 @@
 >* [KA Finance App](https://play.google.com/store/apps/details?id=com.kevin.finance_v2)
 >* [KA Finance website](https://finance.ka-soft.com/)
 >* [Idar](https://finance.ka-soft.com/idar)
->* [IAB OM sdk certification](https://finance.ka-soft.com/idar)
+>* [IAB OM sdk certification](https://iabtechlab.com/compliance-programs/compliant-companies/) for [UCFunnel](https://ucfunnel.com)
 
 ---
 
 #### Intel
 ###### Software Engineer, *09 / 2013 - 05 / 2015*
 >* Android RIL support for customer integration
->* 
 
 ---
 #### Renasas Mobile
@@ -122,25 +132,25 @@
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
 
-#### MDIDrawable
+#### [MDIDrawable](https://github.com/kevinchung0921/MdiDrawable)
 ###### Language: Kotlin/Python
 ###### Purpose: Runtime generate icon from MDI font
 ###### Features: auto download mdi font and generate Android string resource xml file, many controllable effects including color, shadow,..
 
-<img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' />
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' href='https://github.com/kevinchung0921/MdiDrawable'/>
 
-#### EInvoice SDK
+#### [EInvoice SDK](https://github.com/kevinchung0921/einvoice_sdk)
 ###### Language: Kotlin
 ###### Purpose: Taiwan EInvoice API SDK
 ###### Features: Query einvoice header and details
 
-<img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' />
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/734c107b9f9b8f421830ac8a4c5d91e2d58b8d1a/images/Screenshot%20from%202023-03-28%2016-52-35.png' href='https://github.com/kevinchung0921/einvoice_sdk' />
 
 
-#### Product classifier 
+#### [Product classifier] (https://github.com/kevinchung0921/product_classifier)
 ###### Language: Python, pyTorch
 ###### Purpose: Machine Learning model for classify merchandise 
-###### Features: 
+###### Features: Use Selenium for collect web pages, and pyTorch for model training.
 
 
 ---
