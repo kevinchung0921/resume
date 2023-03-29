@@ -21,7 +21,7 @@
 >* 3 years experiences on chip verification and device driver implementation.
 >* 7 years experiences on mobile phone developments, including BB/RF driver, Layer1 Protocol, GCF certification.
 
-**Full of curiosity**, **love coding**, **enjoy of chalenges**, **self discipline**
+> **Full of curiosity**, **love coding**, **enjoy of chalenges**, **self discipline**
 ---
 
 ## Skills
