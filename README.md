@@ -48,6 +48,9 @@
 #### Intel
 ###### Software Engineer, *09 / 2013 - 05 / 2015*
 >* Android RIL support for customer integration
+>* Port 3G dongle for Intel tablet platform
+>* ODM/OEM customer training
+
 
 ---
 #### Renasas Mobile
