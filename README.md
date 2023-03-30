@@ -152,7 +152,7 @@
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/734c107b9f9b8f421830ac8a4c5d91e2d58b8d1a/images/Screenshot%20from%202023-03-28%2016-52-35.png' href='https://github.com/kevinchung0921/einvoice_sdk' />
 
 
-#### [Product classifier] (https://github.com/kevinchung0921/product_classifier)
+#### [Product classifier](https://github.com/kevinchung0921/product_classifier)
 ###### Language: Python, pyTorch
 ###### Purpose: Machine Learning model for classify merchandise 
 ###### Features: Use Selenium for collect web pages, and pyTorch for model training.
