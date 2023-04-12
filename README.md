@@ -94,6 +94,7 @@
 >* Resolve field trial issues: This the toughest part before phone going mass-production due to the complex network environment and various user behaviors. It requires the capability to analyze huge logs very carefully.
 
 ---
+
 ## Side projects
 #### AT2
 ###### Language: BCB
@@ -101,65 +102,83 @@
 ###### Features: COM port read/write, string matching, flow control, Equipments control via GPIB, script save/load
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/AT2.png' />
+
 ---
+
 #### RD Driver analyzer
 ###### Language: BCB
 ###### Purpose: Transfer RF driver C source code to GPIO timing chart for analysis and tuning
 ###### Features: Parsing C source via Preprocessor and draw as timing chart, support measurement between signals
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/RF_driver_analyzer.png' />
+
 ---
+
 #### PCTM
 ###### Language: BCB
 ###### Purpose: GUI for RF/BB test commands on TI modem platform
 ###### Features: Send various test command on the fly
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/pctm.png' />
+
 ---
+
 #### COFFEE
 ###### Language: BCB
 ###### Purpose: Extract COFF(common object file format) debug symbols to translate address to source file name and line number
 ###### Features: COFF parser, crash log analysis, symbol search, disassembly on ARM/Thumb mode
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/coffee.png' />
+
 ---
+
 #### RIL MSC
 ###### Language: Python
 ###### Purpose: Convert Android logcat messages into RIL message sequence chart
 ###### Features: Collect log from couples of RIL relevant thread and create mscgen script for generate chart
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/ril_log_msc.png' />
+
 ---
+
 #### SUPL test tool
 ###### Language: BCB
 ###### Purpose: Perform SUPL flow for function verification
 ###### Features: Initial SUPL protocol to specified server, dump PDU, write aiding data into in house GPS solution
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/supl.png' />
+
 ---
+
 #### [MDIDrawable](https://github.com/kevinchung0921/MdiDrawable)
 ###### Language: Kotlin/Python
 ###### Purpose: Runtime generate icon from MDI font
 ###### Features: auto download mdi font and generate Android string resource xml file, many controllable effects including color, shadow,..
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/c3d7cc5d3d49092ced0ba1d8af2695e08e921981/images/Screenshot%20from%202023-03-28%2014-03-20.png' href='https://github.com/kevinchung0921/MdiDrawable'/>
+
 ---
+
 #### [EInvoice SDK](https://github.com/kevinchung0921/einvoice_sdk)
 ###### Language: Kotlin
 ###### Purpose: Taiwan EInvoice API SDK
 ###### Features: Query einvoice header and details
 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/734c107b9f9b8f421830ac8a4c5d91e2d58b8d1a/images/Screenshot%20from%202023-03-28%2016-52-35.png' href='https://github.com/kevinchung0921/einvoice_sdk' />
+
 ---
 
 #### [Product classifier](https://github.com/kevinchung0921/product_classifier)
 ###### Language: Python, pyTorch
 ###### Purpose: Machine Learning model for classify merchandise 
 ###### Features: Use Selenium for collect web pages, and pyTorch for model training.
+
 [自動商品分類器(上) -爬蟲與深度學習](https://medium.com/@kevinchung0921/%E6%88%91%E7%9A%84app%E9%96%8B%E7%99%BC%E4%B9%8B%E8%B7%AF-%E8%87%AA%E5%8B%95%E5%95%86%E5%93%81%E5%88%86%E9%A1%9E%E5%99%A8-%E7%88%AC%E8%9F%B2%E8%88%87%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92-391f0e89b9d4?source=your_stories_page-------------------------------------)
+
 [自動商品分類器(下) -佈署與整合](https://medium.com/@kevinchung0921/%E6%88%91%E7%9A%84app%E9%96%8B%E7%99%BC%E4%B9%8B%E8%B7%AF-%E8%87%AA%E5%8B%95%E5%95%86%E5%93%81%E5%88%86%E9%A1%9E%E5%99%A8-%E4%B8%8B-%E4%BD%88%E7%BD%B2%E8%88%87%E6%95%B4%E5%90%88-49d33692b01d?source=your_stories_page-------------------------------------)
 
 ---
+
 ## Awards
 * Several peer Recognitions at **Intel**
 * Short term award at **MStar**
