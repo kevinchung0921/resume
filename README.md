@@ -175,6 +175,6 @@
 ---
 ## Language
 * Chinese: Native Speaker
-* English: Fluent, ** TOEIC 835 **
+* English: Fluent, **TOEIC 835**
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/26850dabe3ae4b3146133268fb743f2222b4f027/images/toeic_.png' />
 
