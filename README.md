@@ -39,8 +39,14 @@
 ###### Software Engineer, *05 / 2015 ~ now*
 	
 >* [KA Finance App](https://play.google.com/store/apps/details?id=com.kevin.finance_v2)
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/9b029dad7f61d298c5b9c893b032c4aef03b9c5a/images/Screenshot%20from%202023-07-06%2010-43-54.png' href='https://play.google.com/store/apps/details?id=com.kevin.finance_v2'/> 
+
 >* [KA Finance website](https://finance.ka-soft.com/)
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/9b029dad7f61d298c5b9c893b032c4aef03b9c5a/images/Screenshot%20from%202023-07-06%2010-42-47.png' href='https://finance.ka-soft.com'/>
+
 >* [Idar](https://finance.ka-soft.com/idar)
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/79821efb367dd6c885853338f718c4e2cdebd785/images/Screenshot%20from%202023-07-06%2010-36-39.png' href='https://finance.ka-soft.com/idar'/>
+
 >* [IAB OM sdk certification](https://iabtechlab.com/compliance-programs/compliant-companies/) for [UCFunnel](https://ucfunnel.com)
 
 ---
