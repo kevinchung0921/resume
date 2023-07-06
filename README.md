@@ -25,7 +25,7 @@
 ---
 
 ## Skills
-#### Speciallity 
+#### Speciallities
 >C/C++, Java, Kotlin, JavaScript, Android App, Android BSP, Android RIL, SQLite, MongoDB, HTML5, CSS, Angular, NodeJS, Embedded System, Firmware, 3GPP L1, SUPL
 
 #### Algorithm
