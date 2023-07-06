@@ -15,17 +15,17 @@
 
 ---
 ## About me
->* 3 years experiences on back-end/front-end server implementation.
->* 8 years experiences on implement Android App.
->* 5 years experiences on Linux/Android system bring up and BSP.
->* 3 years experiences on chip verification and device driver implementation.
->* 7 years experiences on mobile phone developments, including BB/RF driver, Layer1 Protocol, GCF certification.
+>* **3** years experiences on **back-end/front-end server** implementation.
+>* **8** years experiences on implement **Android App**.
+>* **5** years experiences on **Linux/Android system bring up and BSP**.
+>* **3** years experiences on **chip verification** and **device driver** implementation.
+>* **7** years experiences on **mobile phone development**, including BB/RF driver, Layer1 Protocol, GCF certification.
 
-> **Full of curiosity**, **love coding**, **enjoy of chalenges**, **self discipline**
+> personality: **Full of curiosity**, **love coding**, **enjoy of chalenges**, **self discipline**
 ---
 
 ## Skills
-#### Speciallities
+#### Specialities
 >C/C++, Java, Kotlin, JavaScript, Android App, Android BSP, Android RIL, SQLite, MongoDB, HTML5, CSS, Angular, NodeJS, Embedded System, Firmware, 3GPP L1, SUPL
 
 #### Algorithm
@@ -38,16 +38,16 @@
 #### Freelancer 
 ###### Software Engineer, *05 / 2015 ~ now*
 	
->* [KA Finance App](https://play.google.com/store/apps/details?id=com.kevin.finance_v2)
+> [KA Finance App](https://play.google.com/store/apps/details?id=com.kevin.finance_v2) : A personal accounting app with rich functions including online currency rate query, custom report, Google Sheet sync, Google Calendar, cloud sync, e-invoice and others.
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/9b029dad7f61d298c5b9c893b032c4aef03b9c5a/images/Screenshot%20from%202023-07-06%2010-43-54.png' href='https://play.google.com/store/apps/details?id=com.kevin.finance_v2'/> 
 
->* [KA Finance website](https://finance.ka-soft.com/)
+> [KA Finance website](https://finance.ka-soft.com/) : The front/back end server of KA Finance App. 
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/9b029dad7f61d298c5b9c893b032c4aef03b9c5a/images/Screenshot%20from%202023-07-06%2010-42-47.png' href='https://finance.ka-soft.com'/>
 
->* [Idar](https://finance.ka-soft.com/idar)
+> [Idar](https://finance.ka-soft.com/idar) : A simple service to enable Google Calendar to a personal accouting tool.
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/79821efb367dd6c885853338f718c4e2cdebd785/images/Screenshot%20from%202023-07-06%2010-36-39.png' href='https://finance.ka-soft.com/idar'/>
 
->* [IAB OM sdk certification](https://iabtechlab.com/compliance-programs/compliant-companies/) for [UCFunnel](https://ucfunnel.com)
+> [IAB OM sdk certification](https://iabtechlab.com/compliance-programs/compliant-companies/) for [UCFunnel](https://ucfunnel.com)
 
 ---
 
