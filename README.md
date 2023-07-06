@@ -99,6 +99,27 @@
 >* **Camera driver** development on feature phone(**SPI interface**). 
 >* Resolve field trial issues: This the toughest part before phone going mass-production due to the complex network environment and various user behaviors. It requires the capability to analyze huge logs very carefully.
 
+**ACER P80**
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/25529a0674bf84611bb32adfcfc8aad3ce657cc5/images/Screenshot%20from%202023-07-06%2010-50-12.png' href='https://www.imei.info/phonedatabase/acer-smart-phone-p80/'/> 
+
+**BenQ M560G**
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/25529a0674bf84611bb32adfcfc8aad3ce657cc5/images/Screenshot%20from%202023-07-06%2010-53-07.png' /> 
+
+**BenQ A500**
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/25529a0674bf84611bb32adfcfc8aad3ce657cc5/images/Screenshot%20from%202023-07-06%2010-56-24.png' /> 
+
+**BenQ S670C**
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/25529a0674bf84611bb32adfcfc8aad3ce657cc5/images/Screenshot%20from%202023-07-06%2010-54-39.png' /> 
+
+**MOTOROLA V295**
+
+<img width='400' src='https://github.com/kevinchung0921/resume/blob/e935f993a2c0d9cf64ef3836ea909137b0c7602a/images/Screenshot%20from%202023-07-06%2011-07-35.png' /> 
+
+
 ---
 
 ## Side projects
