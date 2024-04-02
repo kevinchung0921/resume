@@ -26,7 +26,7 @@
 
 ## Skills
 #### Specialities
->C/C++, Java, Kotlin, JavaScript, Android App, Android BSP, Android RIL, SQLite, MongoDB, HTML5, CSS, Angular, NodeJS, Embedded System, Firmware, 3GPP L1, SUPL
+>C/C++, Java, Kotlin, JavaScript, Android App, Android BSP, Android RIL, SQLite, MongoDB, HTML5, CSS, Angular, NodeJS, Embedded System, Firmware, 3GPP L1, SUPL, ReactJS, TypeScript
 
 #### Algorithm
 > 1000+ problems solved on [LeetCode](https://leetcode.com/kevinchung0921/)
@@ -35,8 +35,11 @@
 ---
 
 ## Work experience
+#### Gogoro
+###### Senior Engineer, *08/2023 ~ now*
+
 #### Freelancer 
-###### Software Engineer, *05 / 2015 ~ now*
+###### Software Engineer, *05 / 2015 ~ 08/2023*
 	
 > [KA Finance App](https://play.google.com/store/apps/details?id=com.kevin.finance_v2) : A personal accounting app with rich functions including online currency rate query, custom report, Google Sheet sync, Google Calendar, cloud sync, e-invoice and others.
 <img width='400' src='https://github.com/kevinchung0921/resume/blob/9b029dad7f61d298c5b9c893b032c4aef03b9c5a/images/Screenshot%20from%202023-07-06%2010-43-54.png' href='https://play.google.com/store/apps/details?id=com.kevin.finance_v2'/> 
