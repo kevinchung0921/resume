@@ -15,8 +15,8 @@
 
 ---
 ## About me
->* **3** years experiences on **back-end/front-end server** implementation.
->* **8** years experiences on implement **Android App**.
+>* **4+** years experiences on **back-end/front-end server** implementation.
+>* **8+** years experiences on implement **Android App**.
 >* **5** years experiences on **Linux/Android system bring up and BSP**.
 >* **3** years experiences on **chip verification** and **device driver** implementation.
 >* **7** years experiences on **mobile phone development**, including BB/RF driver, Layer1 Protocol, GCF certification.
@@ -37,6 +37,10 @@
 ## Work experience
 #### Gogoro
 ###### Senior Engineer, *08/2023 ~ now*
+>* Battery Management System(BMS) development and optimzation
+>* CI/CD improvement
+>* Internal tool deveopment
+>* Resolve filed issues
 
 #### Freelancer 
 ###### Software Engineer, *05 / 2015 ~ 08/2023*
