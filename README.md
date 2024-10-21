@@ -2,6 +2,7 @@
 * [About me](#about-me)
 * [Skills](#skills)
 * [Work Experience](#work-experience)
+	* [Gogoro](#gogoro) 
 	* [Freelancer](#freelancer)
 	* [Intel](#intel)
 	* [Renasas Mobile](#renasas-mobile)
@@ -35,6 +36,7 @@
 ---
 
 ## Work experience
+
 #### Gogoro
 ###### Senior Engineer, *08/2023 ~ now*
 >* Battery Management System(BMS) development and optimzation
