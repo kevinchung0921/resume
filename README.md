@@ -2,6 +2,7 @@
 * [About me](#about-me)
 * [Skills](#skills)
 * [Work Experience](#work-experience)
+    * [Roku](#roku) 
 	* [Gogoro](#gogoro) 
 	* [Freelancer](#freelancer)
 	* [Intel](#intel)
@@ -36,9 +37,13 @@
 ---
 
 ## Work experience
+###### Senior software Engineer, *07/2025 ~ now*
+>* NPI team for support new model TV panel bring up
+>* Fix production issues
+
 
 #### Gogoro
-###### Senior Engineer, *08/2023 ~ now*
+###### Senior Engineer, *08/2023 ~ 06/2025*
 >* Battery Management System(BMS) development and optimzation
 >* CI/CD improvement
 >* Internal tool deveopment
