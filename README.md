@@ -37,12 +37,14 @@
 ---
 
 ## Work experience
+#### [Roku](http://roku.com)
 ###### Senior software Engineer, *07/2025 ~ now*
->* NPI team for support new model TV panel bring up
->* Fix production issues
+>* NPI team for support new model TV panel firmware and bring up
+>* Clarify and fix production issues
+>* New feature phase in
 
 
-#### Gogoro
+#### [Gogoro](https://www.gogoro.com/)
 ###### Senior Engineer, *08/2023 ~ 06/2025*
 >* Battery Management System(BMS) development and optimzation
 >* CI/CD improvement
@@ -65,7 +67,7 @@
 
 ---
 
-#### Intel
+#### [Intel](https://www.intel.com)
 ###### Software Engineer, *09 / 2013 - 05 / 2015*
 >* Android RIL support for customer integration
 >* Port 3G dongle for Intel tablet platform
@@ -94,7 +96,7 @@
 >* **Linux FM radio** via UIO; define new Hardware Abstraction Layer, JNI and associated Java application. 
 
 ---
-#### LiteOn
+#### [LiteOn](https://www.liteon.com/)
 ###### Associate Manager, *11 / 2004 - 11 / 2006*
 >* Manage system/protocol/driver team to deveopment GSM/GPRS feature phone
 >* GPRS/GPS module for fleet management, wireless meter reader application
@@ -102,7 +104,7 @@
 >* Create patent map database for 3GPP IPR
 
 ---
-#### BenQ
+#### [BenQ](https://www.benq.com/)
 ###### Technical Associate Manager, *10 / 1999 - 10 / 2004*
 
 >* **Smart battery driver** (**1-wire protocol**): This protocol use a single GPIO as input and output which requires accurate timing control. Because of not allow to mask interupts during access, error detect and handle was also implemented.
