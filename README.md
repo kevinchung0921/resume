@@ -38,7 +38,7 @@
 
 ## Work experience
 #### [Roku](http://roku.com)
-###### Senior software Engineer, *07/2025 ~ now*
+###### Senior software Engineer, *07/2025 ~ 03/2026*
 >* NPI team for support new model TV panel firmware and bring up
 >* Clarify and fix production issues
 >* New feature phase in
