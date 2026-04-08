@@ -39,17 +39,18 @@
 ## Work experience
 #### [Roku](http://roku.com)
 ###### Senior software Engineer, *07/2025 ~ 03/2026*
->* NPI team for support new model TV panel firmware and bring up
+>* NPI team for support new model TV panel firmware and bring up: successfully enable +30 models
 >* Clarify and fix production issues
->* New feature phase in
+>* New features phase in
 
 
 #### [Gogoro](https://www.gogoro.com/)
 ###### Senior Engineer, *08/2023 ~ 06/2025*
->* Battery Management System(BMS) development and optimzation
->* CI/CD improvement
->* Internal tool deveopment
->* Resolve filed issues
+>* Battery Management System(BMS) development and optimzation: reduce ~ 10% (RAM/Flash) at the condition that 99% usage 
+>* CI/CD improvement: Auto publish artifact and mail notification
+>* Internal tool deveopment: Rewrite engineer tool from PyQT (offline) to React (online)
+>* Implement emulator for BMS: Could execute native binary image and debug on GDB, various peripherials emulation: NFC, flash, uart,..
+>* Resolve various filed issues
 
 #### Freelancer 
 ###### Software Engineer, *05 / 2015 ~ 08/2023*
